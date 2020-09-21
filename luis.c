@@ -8,9 +8,13 @@
 
 int main()
 {
+<<<<<<< HEAD
     printf("prueba lasdasdauis3");
     printf("prueba lasdasdauis3");
     printf("prueba lasdasdauis3");
+=======
+hjkhjk
+>>>>>>> e68094a138c85ad9b40219503ee09cd81b760257
     return 0;
 }
 
