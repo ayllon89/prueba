@@ -9,6 +9,8 @@
 int main()
 {
     printf("prueba lasdasdauis3");
+    printf("prueba lasdasdauis3");
+    printf("prueba lasdasdauis3");
     return 0;
 }
 
