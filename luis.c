@@ -8,7 +8,7 @@
 
 int main()
 {
-    printf("prueba luis 222");
+    printf("prueba luis");
 
     return 0;
 }
