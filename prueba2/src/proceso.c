@@ -15,8 +15,7 @@
 
 int main()
 {
-    printf("Holaaaaaaaaaaa");
-    printf("Hola luis desde remoto");
+BEBEEEEEEEE
 
     return 0;
 }
